@@ -20,31 +20,41 @@ Client conatins frontend part and server contains backend part for this website
 In client's .env.local file
 
 REACT_APP_CHAT_ENGINE_API_KEY=XXXXXXXXXXXXXXXXXXXXX
+
 REACT_APP_PROJECT_ID=XXXXXXXXXXXXXXXXXXXXX
+
 REACT_APP_BACKEND_URL=XXXXXXXXXXXXXXXXXXXXX
+
 Deploy your backend on heroku and save the URL or write http://localhost:3000 if your are running it locally
+
 
 In server's .env file
 
 CHAT_ENGINE_API_KEY =XXXXXXXXXXXXXXXXXXXXX
+
 CHAT_ENGINE_PROJECT_ID =XXXXXXXXXXXXXXXXXXXXX
+
 MAIL_ID=XXXXXXXXXXXXXXXXXXXXX
+
 MAIL_SECRET=XXXXXXXXXXXXXXXXXXXXX
+
 Create a database in Mongo Atlas and note the secret and url of the cluster
 
 
 
 ✔️1. Clone this repository
 
- git clone https://github.com/AdityaKumar-01/MS-Teams-clone.git
+ 
 ✔️2. cd into client and then run
-
+ 
  cd client
  npm install
+ 
 ✔️3. cd into server and then run
 
  cd server
  npm install
+ 
 This will install all the dependencies required and your are good to go 💯
 
 # Working 🛠
