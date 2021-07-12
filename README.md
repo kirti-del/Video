@@ -1,5 +1,6 @@
 ## 🔰 MS Teams Clone 🔰
-An attempt to make a clone of existing MS Teams for Micorsoft Engage 2021 Link: https://microsoft-teams-clone14.herokuapp.com/🔗.
+An attempt to make a clone of existing MS Teams for Micorsoft Engage 2021 Link: https://microsoft-teams-clone14.herokuapp.com/.
+
 It was a challenge given by Microsft to build a replica of MS Team with a mandatory feature where atleast 2 people can join a room and have video call. On my way of building this I used MERN stack for building its frontend and backend. I tried and added more featrues by myself to make it user-friendly
 
 # Features 🔰
