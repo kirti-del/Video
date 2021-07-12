@@ -76,10 +76,12 @@ Here is a list of those NPM packages 📝
 📍 Nodemon
 
 # Tools in Spotlight🔆
-Chat engine
+**Chat engine**
+
 Chat Engine helps you to build chat app. You dont have to write all the componets from scratch and every part of it is customizable. In this project I reconfigured most of the components like created own form to send message, created own custom styled chat messages and added functionality like sending pictures and starting a video call with memebers of chat room and many more. It also has its REST API with which you can interact with teh database it has.
 
 
-WebRTC
+**WebRTC**
+
 With WebRTC, you can add real-time communication capabilities to your application that works on top of an open standard. It supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice- and video-communication solutions. The technology is available on all modern browsers as well as on native clients for all major platforms. The technologies behind WebRTC are implemented as an open web standard and available as regular JavaScript APIs in all major browsers.
 
