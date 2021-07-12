@@ -2,18 +2,18 @@
 An attempt to make a clone of existing MS Teams for Micorsoft Engage 2021 Link: https://microsoft-teams-clone14.herokuapp.com/🔗.
 It was a challenge given by Microsft to build a replica of MS Team with a mandatory feature where atleast 2 people can join a room and have video call. On my way of building this I used MERN stack for building its frontend and backend. I tried and added more featrues by myself to make it user-friendly
 
-Features
+# Features 🔰
 1) Create Teams/ Delete teams: Make teams for 2 or more people to connect
 2) Send messages: Chat with others in the group
 3) Share photos: Share photos with your team
 4) Video Call: Have video call meetings
 5) Manage Profile: Can Edit your profile 
 
-How to run in local system 💻
+# How to run in local system 💻
 This project containns 2 folder 📁 "client" and "server"
 Client conatins frontend part and server contains backend part for this website
 
-Prerequisites
+# Prerequisites
 ‼️ You should have node version higher than 8
 ‼️ Get a free account of Chat Engine and note down your project ID and API key
 
