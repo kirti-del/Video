@@ -1,5 +1,5 @@
 ## 🔰 MS Teams Clone 🔰
-An attempt to make a clone of existing MS Teams for Micorsoft Engage 2021 Link: https://microsoft-teams-clone14.herokuapp.com/.
+An attempt to make a clone of existing MS Teams for Micorsoft Engage 2021 Link: https://microsoft-teams-clone14.herokuapp.com/ (For demo-> Username: User, Password: 123123).
 
 It was a challenge given by Microsft to build a replica of MS Team with a mandatory feature where atleast 2 people can join a room and have video call. On my way of building this I used MERN stack for building its frontend and backend. I tried and added more featrues by myself to make it user-friendly
 
@@ -65,13 +65,21 @@ For frontend I used React to build components like form teams and other things. 
 
 
 Here is a list of those NPM packages 📝
+
 📍 Material UI core
+
 📍 Material UI icons
+
 📍 Axios
+
 📍 React Avatar
+
 📍 React Chat Engine
+
 📍 React Scroll To Bottom
+
 📍 Use Animations
+
 📍 UUID
 
 Backend
@@ -80,10 +88,15 @@ For backend I used NodeJS for creating servers and routes. I used node for backe
 
 
 Here is a list of those NPM packages 📝
+
 📍 Socket.io
+
 📍 Peer.js
+
 📍 UUID
+
 📍 Express
+
 📍 Nodemon
 
 # Tools in Spotlight🔆
