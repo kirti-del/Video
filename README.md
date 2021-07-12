@@ -109,7 +109,8 @@ Chat Engine helps you to build chat app. You dont have to write all the componet
 
 With WebRTC, you can add real-time communication capabilities to your application that works on top of an open standard. It supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice- and video-communication solutions. The technology is available on all modern browsers as well as on native clients for all major platforms. The technologies behind WebRTC are implemented as an open web standard and available as regular JavaScript APIs in all major browsers.
 
-* Future Scope
+**__Future_ Scope_**
+
 Record the meeting feature can be added
 
 Caption generation
